@@ -1,0 +1,8 @@
+{
+  "name": "Rich Web Assignment 2",
+  "description": "app with node and heroku",
+  "repository": "https://github.com/Bobnonymous/Robert-Cole_C12391946_Assignment_2",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
